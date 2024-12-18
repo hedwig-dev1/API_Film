@@ -16,8 +16,8 @@ Aplikasi sederhana untuk layanan streaming film menggunakan Laravel 9. Aplikasi 
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/streaming-film-api.git
-   cd streaming-film-api
+   git clone https://github.com/rijalulakhri-code/API_Film
+   cd API_Film
 2. Instal Dependensi
 Pastikan Anda berada di direktori proyek, lalu jalankan perintah:
    ``` bash
