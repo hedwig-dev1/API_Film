@@ -1,4 +1,4 @@
-# Layanan Streaming Film
+# API Streaming Film
 
 Aplikasi sederhana untuk layanan streaming film menggunakan Laravel 9. Aplikasi ini menyediakan API dan antarmuka frontend untuk menampilkan daftar film, filter kategori, pencarian, dan pemutar video.
 
@@ -48,5 +48,8 @@ Jalankan perintah berikut untuk membuat tabel di database dan mengisi data awal:
 Jalankan perintah berikut untuk memulai server aplikasi:
     ``` bash
     php artisan serve
+
+## ERD
+![ERD](ERD.png)
 
 
